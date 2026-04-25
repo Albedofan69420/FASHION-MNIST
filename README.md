@@ -13,3 +13,7 @@ Además de incluir todo aquello que involucre la creación del modelo, también 
 El documento .ipynb adjunto ha de ser ejecutado en un entorno capaz de soportar el uso de redes neuronales. En este caso, se recomienda hacerlo a través de la plataforma "Colab" proporcionada por Google y cambiar las configuraciones del acelerador por hardware a "GPU T4", el cual se encuentra dentro del menú de cambios del entorno de ejecución asociado.
 
 Tras aplicar los cambios sobre el entorno, puede abrir el cuaderno y conectarse al entorno alojado en la esquina superior derecha. Este informe sigue un orden secuencial, por lo que debe de ser ejecutado en el orden base en el que se encuentra proporcionado en este repositorio.
+
+# PDF ejecutado
+
+Además de incluir el documento con el modelo desarrollado en .ipynb, también se facilitó un pdf con todos los bloques de código ya ejecutados, con el propósito de facilitar la visualización de los resultados obtenidos por el grupo.
